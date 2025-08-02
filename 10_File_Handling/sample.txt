@@ -1,0 +1,3 @@
+Name = Bikram
+Roll = 14
+Marks = 98.99
